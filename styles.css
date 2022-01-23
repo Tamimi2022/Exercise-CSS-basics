@@ -1,0 +1,26 @@
+body {
+  color: red;
+  border: 10px dotted black;
+  padding: 15px;
+  background: lightblue;
+  background-clip: padding-box;
+}
+
+.black-border {
+  border: 5px solid black;
+  text-align: center;
+}
+
+#green-background {
+  background-color: green;
+}
+p {
+  font-style: oblique;
+}
+footer {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: xx-large;
+}
+.center {
+  text-align: center;
+}
